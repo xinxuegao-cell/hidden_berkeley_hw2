@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Berkeley Beyond the Classroom
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+New to Berkeley? Explore this guide to find places to study, take a break, and access useful local services, with practical access notes and official links to help you plan your visit.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
