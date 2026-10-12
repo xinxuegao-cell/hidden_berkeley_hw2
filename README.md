@@ -17,8 +17,9 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide helps people new to Berkeley find places to study, relax, and access useful services. The first eight resources were supplied by COMPSS 211A. I added the Jean Gray Hargrove Music Library and checked its visitor access information on its official webpage: https://www.lib.berkeley.edu/visit/music
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+My live website is https://xinxuegao-cell.github.io/hidden_berkeley_hw2/
+After the Pages deployment succeeded, I opened the website in a private browser window. I confirmed that the updated heading and introduction, revised Morrison Library access note, and added Jean Gray Hargrove Music Library entry appeared correctly. The details for both libraries matched the saved CSV, and their official links opened the correct pages. My regular browser window showed old content, but the private window displayed the updated version.
